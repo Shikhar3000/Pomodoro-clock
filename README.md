@@ -1,1 +1,4 @@
 # Pomodoro-clock
+Python Pomodoro Clock GUI: Boost your productivity with my Pomodoro Clock GUI project, developed using Python. This user-friendly application employs a graphical interface to help you practice the Pomodoro Technique for effective time management. Set customizable work and break intervals, and watch the clock guide you through focused work sessions and rejuvenating breaks. The intuitive design ensures a seamless experience.
+
+The project showcases Python's versatility in GUI development, providing an engaging way to enhance your work habits. Dive into the code to explore how the GUI elements are structured, and how the clock's functionality is managed. Whether you're a productivity enthusiast or simply looking to improve your time management, this Pomodoro Clock GUI offers a valuable tool for increasing focus and achieving tasks efficiently.
